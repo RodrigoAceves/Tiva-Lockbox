@@ -1,0 +1,20 @@
+Dependencies for Project 'Rodrigo_Lockbox', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\driverlib.lib)(0x5542B581)()
+F (.\startup_rvmdk.S)(0x609B6AFD)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\racev\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 533" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (.\Rodrigo_Lockbox.c)(0x609F2968)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork -I ..\..\..\.. --c99-IC:\Users\racev\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="533" -DTM4C123GH6PM -Dnvmdk -DPART_TM4C123GH6PM-o .\objects\rodrigo_lockbox.o --omf_browse .\objects\rodrigo_lockbox.crf --depend .\objects\rodrigo_lockbox.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8F0FB2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8F0FB2)
+I (Rodrigo_Lockbox.h)(0x60984641)
+I (..\..\..\..\inc/hw_types.h)(0x60136C96)
+I (..\..\..\..\inc/hw_memmap.h)(0x60136C96)
+I (..\..\..\..\inc/hw_gpio.h)(0x60136C96)
+I (..\..\..\..\driverlib/sysctl.h)(0x5423290D)
+I (..\..\..\..\driverlib/pin_map.h)(0x5423290D)
+I (..\..\..\..\driverlib/rom_map.h)(0x5423290D)
+I (..\..\..\..\driverlib/gpio.h)(0x5423290D)
+I (..\..\..\..\inc/tm4c123gh6pm.h)(0x60136C96)
+I (..\..\..\..\driverlib/timer.h)(0x5423290D)
+I (..\..\..\..\driverlib/interrupt.h)(0x5423290D)
+I (..\..\..\..\driverlib/pwm.h)(0x5423290D)
+F (.\Rodrigo_Lockbox.h)(0x60984641)()
